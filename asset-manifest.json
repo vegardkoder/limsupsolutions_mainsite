@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5edebd0.css",
-    "main.js": "/static/js/main.96cd4eb6.js",
-    "static/js/787.e5fba8e8.chunk.js": "/static/js/787.e5fba8e8.chunk.js",
-    "static/media/greenlines2.png": "/static/media/greenlines2.78b86a35603aa66ee396.png",
-    "static/media/discord-logo.png": "/static/media/discord-logo.b5bd52432116402ed0c7.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.c5edebd0.css.map": "/static/css/main.c5edebd0.css.map",
-    "main.96cd4eb6.js.map": "/static/js/main.96cd4eb6.js.map",
-    "787.e5fba8e8.chunk.js.map": "/static/js/787.e5fba8e8.chunk.js.map"
+    "main.css": "/limsupsolutions_mainsite/static/css/main.c5edebd0.css",
+    "main.js": "/limsupsolutions_mainsite/static/js/main.bda0888a.js",
+    "static/js/787.e5fba8e8.chunk.js": "/limsupsolutions_mainsite/static/js/787.e5fba8e8.chunk.js",
+    "static/media/greenlines2.png": "/limsupsolutions_mainsite/static/media/greenlines2.78b86a35603aa66ee396.png",
+    "static/media/discord-logo.png": "/limsupsolutions_mainsite/static/media/discord-logo.b5bd52432116402ed0c7.png",
+    "static/media/logo.svg": "/limsupsolutions_mainsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/limsupsolutions_mainsite/index.html",
+    "main.c5edebd0.css.map": "/limsupsolutions_mainsite/static/css/main.c5edebd0.css.map",
+    "main.bda0888a.js.map": "/limsupsolutions_mainsite/static/js/main.bda0888a.js.map",
+    "787.e5fba8e8.chunk.js.map": "/limsupsolutions_mainsite/static/js/787.e5fba8e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5edebd0.css",
-    "static/js/main.96cd4eb6.js"
+    "static/js/main.bda0888a.js"
   ]
 }
